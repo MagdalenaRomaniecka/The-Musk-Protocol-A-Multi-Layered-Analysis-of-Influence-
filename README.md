@@ -16,29 +16,29 @@ Elon Musk's communication style often appears chaotic, but is it truly random? T
 
 This unified study is built upon four foundational projects, each providing a unique piece of the puzzle and housed in its own dedicated repository.
 
-### 1. **The Quantitative Foundation: Project "Elon, What?!"**
+### **Layer 1: The Quantitative Foundation: Project "Elon, What?!"**
 This project lays the groundwork by analyzing a massive dataset of Elon Musk's tweets. Using Python and data analysis libraries, we identified the most frequently used words and phrases, uncovering the core building blocks of his public discourse.
 
 ➡️ **[Explore the Quantitative Analysis, Code, and Visualizations Here](https://github.com/MagdalenaRomaniecka/Project-Elon-What-2.0-From-Frequent-Words-to-Absolute-Power-and-Chaos-/)**
 
-### 2. **The Strategic Interpretation: "Language, Power & Chaos"**
+### Layer 2: The Strategic Interpretation: "Language, Power & Chaos"**
 This project takes the quantitative findings and interprets them through a qualitative lens. It provides a deep dive into the rhetorical tactics, narrative themes, and strategic goals behind the data, explaining *why* he uses these words.
 
 ➡️ **[Read the Full Qualitative Analysis and Report Here](https://github.com/MagdalenaRomaniecka/Language-Power-Chaos)**
 
-### 3. **The Central Hub: "Decompiling MuskOS"**
+### Layer 3. **The Central Hub: "Decompiling MuskOS"**
 This repository acted as the initial attempt to unify the quantitative and qualitative findings. It framed the analysis as "decompiling an operating system," providing a high-level summary of the core communication tactics.
 
 ➡️ **[View the "MuskOS" Summary Here](https://github.com/MagdalenaRomaniecka/Decompiling-MuskOS)**
 
-### 4. **The Case Study: "Anatomy of a Tweetstorm"**
+### Layer 4. **The Case Study: "Anatomy of a Tweetstorm"**
 This project provides a micro-level analysis of a specific, high-impact communication event. It examines the structure, timing, and narrative arc of one of Musk's tweetstorms to demonstrate how the previously identified tactics are deployed in real-time during a crisis or major announcement.
 
 ➡️ **[See the Tweetstorm Case Study Here](https://github.com/MagdalenaRomaniecka/Anatomy-of-a-Tweetstorm)**
 
 ---
 
-## Layer 3: The Financial Protocol – A $TSLA Correlation Case Study
+## Layer 5: The Financial Protocol – A $TSLA Correlation Case Study
 
 This layer of analysis answers a critical business question: **Do Elon Musk's tweets actually influence the Tesla ($TSLA) stock price?**
 
