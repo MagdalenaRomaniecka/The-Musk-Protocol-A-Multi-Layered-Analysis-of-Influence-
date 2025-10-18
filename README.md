@@ -1,6 +1,6 @@
 # The-Musk-Protocol-A-Multi-Layered-Analysis-of-Influence-
-A comprehensive, four-part investigation that decodes Elon Musk's communication strategy. This repository synthesizes quantitative analysis, qualitative interpretation, and a case study of a viral event to build a complete model of his narrative and influence machine.
-> This repository serves as the central hub for a comprehensive, four-part investigation that decodes Elon Musk's communication strategy. It synthesizes quantitative analysis, qualitative interpretation, and a case study of a viral event to build a complete model of his narrative and influence machine.
+A comprehensive, five-part investigation that decodes Elon Musk's communication strategy. This repository synthesizes quantitative analysis, qualitative interpretation, and a case study of a viral event to build a complete model of his narrative and influence machine.
+> This repository serves as the central hub for a comprehensive, five-part investigation that decodes Elon Musk's communication strategy. It synthesizes quantitative analysis, qualitative interpretation, and a case study of a viral event to build a complete model of his narrative and influence machine.
 
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge) ![Type](https://img.shields.io/badge/Type-Meta--Analysis-purple?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -12,7 +12,7 @@ Elon Musk's communication style often appears chaotic, but is it truly random? T
 
 ---
 
-## 🔬 The Four Layers of Analysis
+## 🔬 The Five Layers of Analysis
 
 This unified study is built upon four foundational projects, each providing a unique piece of the puzzle and housed in its own dedicated repository.
 
