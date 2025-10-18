@@ -40,6 +40,38 @@ This project provides a micro-level analysis of a specific, high-impact communic
 
 ---
 
+## Layer 3: The Financial Protocol – A $TSLA Correlation Case Study
+
+This layer of analysis answers a critical business question: **Do Elon Musk's tweets actually influence the Tesla ($TSLA) stock price?**
+
+In this in-depth case study, we merged data from two different domains:
+1.  **NLP Sentiment Analysis:** The daily average sentiment of Musk's tweets (calculated using VADER).
+2.  **Financial Data:** Historical closing prices for $TSLA (fetched using `yfinance`).
+
+### Key Finding: Correlation is Not Causation
+
+The chart reveals a complex relationship that can be broken into three distinct phases. It demonstrates that while the "Musk Effect" existed, building an investment strategy solely on his tweet sentiment would be ineffective, as the market eventually learned to "separate the signal from the noise."
+
+![Tesla Stock Price vs. Tweet Sentiment](https://raw.githubusercontent.com/MagdalenaRomaniecka/Anatomy-of-a-Tweetstorm/main/images/sentiment_vs_stock_price.png)
+
+<details>
+<summary><strong>Click to read the full phase-by-phase analysis</strong></summary>
+
+  #### Analytical Conclusion
+  The analysis shows the relationship between Musk's tweets and the stock price is not simple.
+  * **Phase 1 (2012-2019): The "Struggle Log"** Tweets were an "emotional diary" of the company's fight for survival. Sentiment reflected operational reality (e.g., "production hell," launch successes) but did not drive the stock price.
+  * **Phase 2 (2020-2022): The "Musk Effect" is Born.** As the stock price went parabolic, individual tweets began to have a real, short-term impact on the market.
+  * **Phase 3 (2022+): Market Desensitization.** The market has learned to filter out the daily "noise." Investors now focus on fundamentals (competition, margins) rather than Musk's daily tweets.
+
+</details>
+
+<br>
+
+➡️ **[Go to the full technical analysis and code (Project: Anatomy-of-a-Tweetstorm)](https://github.com/MagdalenaRomaniecka/Anatomy-of-a-Tweetstorm)**
+
+---
+
+
 ## 🤯 Synthesized Conclusion: The Musk Protocol in Action
 
 By combining all four analyses, a clear, multi-layered model of Musk's communication emerges. The "Musk Protocol" is not a single strategy but a dynamic system with three core functions:
