@@ -38,7 +38,7 @@ This project provides a micro-level analysis of a specific, high-impact communic
 
 ---
 
-## Layer 5: The Financial Protocol – A $TSLA Correlation Case Study
+### Layer 5: The Financial Protocol – A $TSLA Correlation Case Study
 
 This layer of analysis answers a critical business question: **Do Elon Musk's tweets actually influence the Tesla ($TSLA) stock price?**
 
