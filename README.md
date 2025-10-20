@@ -21,7 +21,7 @@ This project lays the groundwork by analyzing a massive dataset of Elon Musk's t
 
 ➡️ **[Explore the Quantitative Analysis, Code, and Visualizations Here](https://github.com/MagdalenaRomaniecka/Project-Elon-What-2.0-From-Frequent-Words-to-Absolute-Power-and-Chaos-/)**
 
-### Layer 2: The Strategic Interpretation: "Language, Power & Chaos"**
+### Layer 2: The Strategic Interpretation: "Language, Power & Chaos"
 This project takes the quantitative findings and interprets them through a qualitative lens. It provides a deep dive into the rhetorical tactics, narrative themes, and strategic goals behind the data, explaining *why* he uses these words.
 
 ➡️ **[Read the Full Qualitative Analysis and Report Here](https://github.com/MagdalenaRomaniecka/Language-Power-Chaos)**
