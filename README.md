@@ -50,7 +50,7 @@ In this in-depth case study, we merged data from two different domains:
 
 The chart reveals a complex relationship that can be broken into three distinct phases. It demonstrates that while the "Musk Effect" existed, building an investment strategy solely on his tweet sentiment would be ineffective, as the market eventually learned to "separate the signal from the noise."
 
-![Tesla Stock Price vs. Tweet Sentiment](https://raw.githubusercontent.com/MagdalenaRomaniecka/Anatomy-of-a-Tweetstorm/main/images/sentiment_vs_stock_price.png)
+(![Tesla Stock Price vs. Tweet Sentiment](https://raw.githubusercontent.com/MagdalenaRomaniecka/Musk-Sentiment-vs-TSLA/main/images/sentiment_vs_stock_price.png))
 
 <details>
 <summary><strong>Click to read the full phase-by-phase analysis</strong></summary>
