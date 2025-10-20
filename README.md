@@ -65,7 +65,7 @@ The chart reveals a complex relationship that can be broken into three distinct 
 
 <br>
 
-➡️ **[Go to the full technical analysis and code (Project: Anatomy-of-a-Tweetstorm)](https://github.com/MagdalenaRomaniecka/Anatomy-of-a-Tweetstorm)**
+**[➡️ [Go to the full technical analysis and code (Project: Musk-Sentiment-vs-TSLA)](https://github.com/MagdalenaRomaniecka/Musk-Sentiment-vs-TSLA))**
 
 ---
 
